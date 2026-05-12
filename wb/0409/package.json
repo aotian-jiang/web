@@ -1,0 +1,16 @@
+{
+  "name": "0409",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "moudle",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "jquery": "^4.0.0",
+    "vite": "^8.0.7"
+  }
+}
