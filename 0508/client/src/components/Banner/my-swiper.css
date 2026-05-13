@@ -1,0 +1,35 @@
+/* banenr */
+
+.banner {
+    width: 100%;
+    height: 1.15rem;
+    border: 1px solid yellow;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+.swiper-wrapper{
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide{
+    width: 100%;
+    height: 100%;
+}
+.swiper-group {
+    position: relative;
+}
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    position: absolute;
+    top: 30px;
+    left: 16px;
+}
